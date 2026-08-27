@@ -1,0 +1,3 @@
+opencv-python>=5.0.0.93  # Library for camera image video processing
+pytesseract>=0.3.13      # Library for Text/OCR feature planning to use
+ultralytics>=8.4.118     # Library for YOLO11 object detection
