@@ -1,5 +1,4 @@
 import cv2
-import pytesseract
 import subprocess
 import time
 from ultralytics import YOLO
